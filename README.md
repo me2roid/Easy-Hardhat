@@ -83,7 +83,6 @@ We welcome contributions! To propose a change:
 ```
 bash
 ```
-bash
 git checkout -b feature/your-feature-name 
 ```
 ## License
